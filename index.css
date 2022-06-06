@@ -121,9 +121,13 @@ div.poema{
     font-weight: 400;
     box-shadow: 0 0 25px 0 rgba(99, 84, 0, 0.63);
 }
+div.photo{
+    box-shadow: 0 0 25px 0 rgba(66, 56, 0, 0.726);
+}
 div.musica{
     display: flex;
     justify-content: center;
+    
 }
 div.cartinha{
     background-color: #eee;
@@ -214,4 +218,8 @@ div.bg-diff{
     background: linear-gradient(0deg, rgba(255,76,76,1) 0%, rgba(255,250,179,1) 78%);
     display: flex;
     justify-content: center;
+}
+img.roxo{
+  transform: scaleX(-1);
+  margin-left: 34vh;
 }
