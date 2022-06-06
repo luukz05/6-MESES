@@ -12,7 +12,7 @@ a.link{
     display: flex;
     justify-content: center;
     margin-top: 37vh;
-    
+    text-shadow: 5px 5px #00000018;
 }
 a:visited{
     color: rgb(148, 145, 1);
